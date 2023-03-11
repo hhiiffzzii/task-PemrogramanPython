@@ -1,0 +1,1 @@
+print("INI ADALAH KOMENTAR") #Ini merupakan contoh komentar menggunakan tanda pagar
