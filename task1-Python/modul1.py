@@ -1,0 +1,2 @@
+print("BARIS") 
+print("INDENTASI") 
