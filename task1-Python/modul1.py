@@ -1,2 +1,0 @@
-print("BARIS") 
-print("INDENTASI") 
