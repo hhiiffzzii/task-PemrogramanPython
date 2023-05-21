@@ -2,7 +2,7 @@
 
 ### Review Hasil
 > ### Halaman Database<br>
-![modul5_1](https://github.com/hhiiffzzii/task-PemrogramanPython/assets/93045470/7f6c2e51-05c7-4cd4-ab3e-3df727dfce35)
+![modul6_1](https://github.com/hhiiffzzii/task-PemrogramanPython/assets/93045470/f6d318f7-1b13-4983-870d-1c901d2ed128)
 > ### Halaman Admin<br>
 ![modul6_2](https://github.com/hhiiffzzii/task-PemrogramanPython/assets/93045470/ba2e05ab-cef7-4cb0-9236-9807f66a8ade)
 > ### Halaman Post Buku<br>
