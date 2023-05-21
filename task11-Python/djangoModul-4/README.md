@@ -1,4 +1,7 @@
-## Python Django - Modul 1
+## Python Django - Modul 4
 
 ### Review Hasil
-![modul1_1](https://github.com/hhiiffzzii/task-PemrogramanPython/assets/93045470/17fe8998-40ec-47d2-9d8a-daf0ae7ad97e)
+> ### Halaman Home<br>
+![modul4_1](https://github.com/hhiiffzzii/task-PemrogramanPython/assets/93045470/d00e51aa-7965-4b66-8cae-b748facd5afb)
+> ### Halaman About<br>
+![modul4_2](https://github.com/hhiiffzzii/task-PemrogramanPython/assets/93045470/2ac7647c-1a43-4ca6-82bf-5b2202d67b68)
