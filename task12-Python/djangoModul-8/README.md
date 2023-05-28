@@ -1,11 +1,9 @@
-## Python Django - Modul 6
+## Python Django - Modul 8
 
 ### Review Hasil
 > ### Halaman Database<br>
-![modul6_1](https://github.com/hhiiffzzii/task-PemrogramanPython/assets/93045470/f6d318f7-1b13-4983-870d-1c901d2ed128)
-> ### Halaman Admin<br>
-![modul6_2](https://github.com/hhiiffzzii/task-PemrogramanPython/assets/93045470/ba2e05ab-cef7-4cb0-9236-9807f66a8ade)
-> ### Halaman Post Buku<br>
-![modul6_3](https://github.com/hhiiffzzii/task-PemrogramanPython/assets/93045470/12fcbbba-b2bd-4f3c-b722-fe840ed20f3a)
+![modul8_1](https://github.com/hhiiffzzii/task-PemrogramanPython/assets/93045470/ef5d99c9-3ac3-416f-a61a-de2996af5592)
 > ### Halaman Data Buku<br>
-![modul6_4](https://github.com/hhiiffzzii/task-PemrogramanPython/assets/93045470/a1408e26-bb0f-4267-9125-6a83d2f46a58)
+![modul8_2](https://github.com/hhiiffzzii/task-PemrogramanPython/assets/93045470/eb6dd006-6aec-4c5a-960a-2baab10b26c9)
+> ### Halaman Post Buku<br>
+![modul8_3](https://github.com/hhiiffzzii/task-PemrogramanPython/assets/93045470/91c3470a-cd0e-4978-8804-71e7e2dbde75)
